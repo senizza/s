@@ -20,13 +20,13 @@ def run_web_server():
     app.run(host='0.0.0.0', port=port)
 
 # ================= [ CONFIGURATION ] =================
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+BOT_TOKEN = os.environ.get("8962709820:AAHTPugWGwVHa7_Ba7dHcQ30f0_qZx18_po")
 ADMIN_ID = 5617375002
 DEFAULT_LIMIT = 5  # ရီဆဲလာဟောင်းများအတွက် အော်တိုသတ်မှတ်ပေးမည့် Limit
 
-GITHUB_TOKEN = os.getenv("GH_TOKEN") 
-REPO_OWNER = "ytun9959-design" 
-REPO_NAME = "Auth" 
+GITHUB_TOKEN = os.getenv("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") 
+REPO_OWNER = "senizza" 
+REPO_NAME = "s" 
 FILE_PATH = "key.txt" 
 RESELLER_FILE_PATH = "resellers.txt" 
 
